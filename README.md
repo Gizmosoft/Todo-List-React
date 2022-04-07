@@ -5,7 +5,7 @@ This project was created as a part of my React learning journey. This project us
 
 ## How the app works
 
-#### Users can test this project by:
+#### Users can test this project locally by:
 
 > ### Using the `npm start` start (If you have NPM installed)
 >
@@ -20,6 +20,14 @@ This project was created as a part of my React learning journey. This project us
 > - Live Server extennsion can be found in the VS Code marketplace.
 > - This will launch the application on Port 5500 [127.0.0.1:5500](127.0.0.1:5500)
 > - Initially, the redirection address would be [127.0.0.1:5500/index.html](127.0.0.1:5500/index.html). Change it to [127.0.0.1:5500](127.0.0.1:5500) on the web browser. You'll see the application running.
+
+## OR
+#### Users can run the application on Code Sandbox
+
+> ### Using the code-sandbox to view the project and source-code
+>
+> - Follow this URL to see the project in action: [Todo-List-React](https://zph2n1.csb.app/)
+> - Follow this URL to see the source code of the Project on Code Sandbox along with the live project: [Todo-List-React:CodeSandbox](https://codesandbox.io/s/todo-list-react-zph2n1)
 
 ## How to use the Application?
 
